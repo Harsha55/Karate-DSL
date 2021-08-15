@@ -37,7 +37,7 @@ Project Setup - create a maven project
 	
 GET Api request
 Create a feature file in src/test/java. Ex: get.feature
-# is used to comment
+
 Scenario: write some description
 Given url ‘some api endpoint’
 When method GET
